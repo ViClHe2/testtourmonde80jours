@@ -1,0 +1,121 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark id="0">
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Londres</value></Data>
+  <Data name="Group - liens entre group"><value>A</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>-0.1440551,51.4893335</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Suez</value></Data>
+  <Data name="Group - liens entre group"><value>B</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>32.5498069,29.9668343</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Bombay</value></Data>
+  <Data name="Group - liens entre group"><value>C</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>72.8776559,19.0759837</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Calcutta</value></Data>
+  <Data name="Group - liens entre group"><value>C</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>88.363895,22.572646</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Hong Kong</value></Data>
+  <Data name="Group - liens entre group"><value>D</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>114.177216,22.302711</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Yokohama</value></Data>
+  <Data name="Group - liens entre group"><value>E</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>139.6380256,35.4437078</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>San Francisco</value></Data>
+  <Data name="Group - liens entre group"><value>F</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>-122.407437,37.787994</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>New York</value></Data>
+  <Data name="Group - liens entre group"><value>F</value></Data>
+  <Data name="Transport"><value>None</value></Data>
+  <Data name="Duree"><value>None</value></Data></ExtendedData>
+  <Point><coordinates>-74.005941,40.712784</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>A - B</value></Data>
+  <Data name="Transport"><value>Chemin de fer et paquebot</value></Data>
+  <Data name="Duree"><value>Sept jours</value></Data></ExtendedData>
+  <LineString><coordinates>-0.1440551,51.4893335
+32.5498069,29.9668343</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>B - C</value></Data>
+  <Data name="Transport"><value>Paquebot</value></Data>
+  <Data name="Duree"><value>Treize jours</value></Data></ExtendedData>
+  <LineString><coordinates>32.5498069,29.9668343
+72.8776559,19.0759837</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>C - C</value></Data>
+  <Data name="Transport"><value>Chemin de fer et éléphant</value></Data>
+  <Data name="Duree"><value>Trois jours</value></Data></ExtendedData>
+  <LineString><coordinates>72.8776559,19.0759837
+88.363895,22.572646</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>C - D</value></Data>
+  <Data name="Transport"><value>Paquebot</value></Data>
+  <Data name="Duree"><value>Treize jours</value></Data></ExtendedData>
+  <LineString><coordinates>88.363895,22.572646
+114.177216,22.302711</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>D - E</value></Data>
+  <Data name="Transport"><value>Paquebot</value></Data>
+  <Data name="Duree"><value>Six jours</value></Data></ExtendedData>
+  <LineString><coordinates>114.177216,22.302711
+139.6380256,35.4437078</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>E - F</value></Data>
+  <Data name="Transport"><value>Paquebot</value></Data>
+  <Data name="Duree"><value>Vingt-deux jours</value></Data></ExtendedData>
+  <LineString><coordinates>139.6380256,35.4437078
+-122.407437,37.787994</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>F - F </value></Data>
+  <Data name="Transport"><value>Chemin de fer et sloop</value></Data>
+  <Data name="Duree"><value>Sept jours</value></Data></ExtendedData>
+  <LineString><coordinates>-122.407437,37.787994
+-74.005941,40.712784</coordinates></LineString></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Ville - type de lien"><value>Direct</value></Data>
+  <Data name="Group - liens entre group"><value>F - A</value></Data>
+  <Data name="Transport"><value>Paquebot et chemin de fer</value></Data>
+  <Data name="Duree"><value>Neuf jours</value></Data></ExtendedData>
+  <LineString><coordinates>-74.005941,40.712784
+-0.1440551,51.4893335</coordinates></LineString></Placemark></Document></kml>

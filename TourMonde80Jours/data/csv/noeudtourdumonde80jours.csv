@@ -1,0 +1,9 @@
+id,label,value,group,lat,lon,link,image
+001v,Londres,2,A,51.4893335,-0.1440551,<img scr = 'https://fr.wikipedia.org/wiki/Londres'>,<img scr = 'https://fr.wikipedia.org/wiki/Londres#/media/Fichier:London_Montage_L.jpg' >
+002v,Suez,2,B,29.9668343,32.5498069,<img scr = 'https://fr.wikipedia.org/wiki/Suez_(ville)'>,<img scr = 'https://fr.wikipedia.org/wiki/Suez_(ville)#/media/Fichier:Iss016e019375.jpg'>
+003v,Bombay,2,C,19.0759837,72.8776559,<img scr = 'https://fr.wikipedia.org/wiki/Bombay'>,<img scr = 'https://fr.wikipedia.org/wiki/Bombay#/media/Fichier:Gateway_of_India_-Mumbai.jpg'>
+004v,Calcutta,2,C,22.572646,88.363895,<img scr = 'https://fr.wikipedia.org/wiki/Calcutta'>,<img scr = 'https://fr.wikipedia.org/wiki/Calcutta#/media/Fichier:Kolkata_Imgs.jpg'>
+005v,Hong Kong,2,D,22.302711,114.177216,<img scr = 'https://fr.wikipedia.org/wiki/Hong_Kong'>,<img scr = 'https://fr.wikipedia.org/wiki/Hong_Kong#/media/Fichier:1_hongkong_panorama_victoria_peak_2011.JPG'>
+006v,Yokohama,2,E,35.4437078,139.6380256,<img scr = 'https://fr.wikipedia.org/wiki/Yokohama)'>,<img scr = ' https://fr.wikipedia.org/wiki/Yokohama#/media/Fichier:Japan_Yokohama.png'>
+007v,San Francisco,2,F,37.787994,-122.407437,<img scr = 'https://fr.wikipedia.org/wiki/San_Francisco'>,<img scr = 'https://fr.wikipedia.org/wiki/San_Francisco#/media/Fichier:Alex_Cagwin_2015_(Unsplash).jpg'>
+008v,New York,2,F,40.712784,-74.005941,<img scr = 'https://fr.wikipedia.org/wiki/New_York'>,<img scr = 'https://fr.wikipedia.org/wiki/New_York#/media/Fichier:NYC_Montage_2014_4_-_Jleon.jpg'>
